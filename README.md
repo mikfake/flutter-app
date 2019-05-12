@@ -22,7 +22,7 @@
 3. xxxx
 
 #### 效果图
-<img style="width:200px;height:400px" src="res/1.png" align=center />
+<img width="100px" height="200px" src="res/1.png" align=center />
 ![1](res/1.png){:height="100" width="100"}
 ![2](res/2.png)
 ![3](res/3.png)
