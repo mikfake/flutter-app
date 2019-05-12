@@ -3,7 +3,13 @@
 #### 介绍
 使用flutter开发的小目标app
 
-#### 软件架构
+#### 文件结构
+* lib 开发目录，源码都在这
+* assets 静态资源
+* android 原生开发
+* ios 原生开发
+* build 编译源码
+* test 测试目录
 
 
 
@@ -17,9 +23,9 @@
 
 #### 使用说明
 
-1. 俄文额
-2. xxxx
-3. xxxx
+1. 需要一个后台API
+2. 目前源码中的后台api为mock
+3. 切换api在api.dart文件中替换baseUrl
 
 #### 效果图
 <img width="300px" height="600px" src="res/1.png" align=center />
