@@ -31,7 +31,11 @@
 <img width="300px" height="600px" src="res/7.png" align=center />
 <img width="300px" height="600px" src="res/8.png" align=center />
 
+#### 真机体验
+<img width="100px" height="100px" src="res/1557630418.png" align=center />
+上面的是为了方便手机扫码下载
 
+下载链接：https://gitee.com/xcmike/flutter-app/raw/master/res/app-release.apk
 
 #### 关注我
 
