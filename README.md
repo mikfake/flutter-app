@@ -22,7 +22,7 @@
 3. xxxx
 
 #### 效果图
-![1](res/1.png)
+![1](res/1.png){:height="100" width="100"}
 ![2](res/2.png)
 ![3](res/3.png)
 ![4](res/4.png)
