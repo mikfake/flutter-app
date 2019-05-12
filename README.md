@@ -22,15 +22,15 @@
 3. xxxx
 
 #### 效果图
-<img width="100px" height="200px" src="res/1.png" align=center />
-![1](res/1.png){:height="100" width="100"}
-![2](res/2.png)
-![3](res/3.png)
-![4](res/4.png)
-![5](res/5.png)
-![6](res/6.png)
-![7](res/7.png)
-![8](res/8.png)
+<img width="300px" height="600px" src="res/1.png" align=center />
+<img width="300px" height="600px" src="res/2.png" align=center />
+<img width="300px" height="600px" src="res/3.png" align=center />
+<img width="300px" height="600px" src="res/4.png" align=center />
+<img width="300px" height="600px" src="res/5.png" align=center />
+<img width="300px" height="600px" src="res/6.png" align=center />
+<img width="300px" height="600px" src="res/7.png" align=center />
+<img width="300px" height="600px" src="res/8.png" align=center />
+
 
 
 #### 关注我
